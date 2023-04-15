@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['id_0',['ID',['../class_undertale_mod_lib_1_1_models_1_1_undertale_background_1_1_tile_i_d.html#a70fd6d245e81b1789074983fc95e7e09',1,'UndertaleModLib.Models.UndertaleBackground.TileID.ID()'],['../class_undertale_mod_lib_1_1_models_1_1_undertale_extension_function.html#a51fdb54cb7c5df78ac498fe3f36f8ca0',1,'UndertaleModLib.Models.UndertaleExtensionFunction.ID()']]],
+  ['imageindex_1',['ImageIndex',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_game_object.html#a6728cc4d5b506b0d370bfc9e1e9df561',1,'UndertaleModLib::Models::UndertaleRoom::GameObject']]],
+  ['imagespeed_2',['ImageSpeed',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_game_object.html#a50c5a71240d39fb46dbdebfd7baab206',1,'UndertaleModLib::Models::UndertaleRoom::GameObject']]],
+  ['indexingroup_3',['IndexInGroup',['../class_undertale_mod_lib_1_1_models_1_1_undertale_embedded_texture.html#afdcd9e73e21d70355ac40ab97f2ffe0a',1,'UndertaleModLib::Models::UndertaleEmbeddedTexture']]],
+  ['info_4',['Info',['../class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#a1b87e51c4acdb2c9d0d453eb9c3e4d42',1,'UndertaleModLib.Models.UndertaleGeneralInfo.Info()'],['../class_undertale_mod_lib_1_1_models_1_1_undertale_options.html#a4b87d38ea8c7430e26b84e424306c0ca',1,'UndertaleModLib.Models.UndertaleOptions.Info()']]],
+  ['infotimestampoffset_5',['InfoTimestampOffset',['../class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#a5efe88c3f3f9b022e5a8829415d6e9b9',1,'UndertaleModLib::Models::UndertaleGeneralInfo']]],
+  ['instanceid_6',['InstanceID',['../interface_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_i_room_object.html#a309a6f54ad9e681920961f88b02c0c98',1,'UndertaleModLib.Models.UndertaleRoom.IRoomObject.InstanceID()'],['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_game_object.html#aba0dad6c3eb347c5f6e08a3d46d13c81',1,'UndertaleModLib.Models.UndertaleRoom.GameObject.InstanceID()'],['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_tile.html#ab7a48273b5759ebeb52cb24316f14c48',1,'UndertaleModLib.Models.UndertaleRoom.Tile.InstanceID()']]],
+  ['instancetype_7',['InstanceType',['../class_undertale_mod_lib_1_1_models_1_1_undertale_variable.html#a6d0619bb486dc36002edcb0d733532cd',1,'UndertaleModLib::Models::UndertaleVariable']]],
+  ['instancevarcount_8',['InstanceVarCount',['../class_undertale_mod_lib_1_1_undertale_data.html#a557d10376e0f7e770090d9fa81198bf5',1,'UndertaleModLib::UndertaleData']]],
+  ['instancevarcountagain_9',['InstanceVarCountAgain',['../class_undertale_mod_lib_1_1_undertale_data.html#a7f6faec5947eb10fd13912ff51bace6d',1,'UndertaleModLib::UndertaleData']]],
+  ['instructions_10',['Instructions',['../class_undertale_mod_lib_1_1_models_1_1_undertale_code.html#a5a297abb2c5628a7d93e9710b9c1b3ef',1,'UndertaleModLib::Models::UndertaleCode']]],
+  ['isappclosed_11',['IsAppClosed',['../interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a5d4cd0b2da5ebd289ad777efede3707a',1,'UndertaleModLib::Scripting::IScriptInterface']]],
+  ['isclosed_12',['IsClosed',['../class_undertale_mod_lib_1_1_models_1_1_undertale_path.html#a6dda0dc750ffcb783a95f2d0bf9f8c6c',1,'UndertaleModLib::Models::UndertalePath']]],
+  ['isconstructor_13',['IsConstructor',['../class_undertale_mod_lib_1_1_models_1_1_undertale_script.html#aa03e1ee1c0af7643235c6bbf04552061',1,'UndertaleModLib::Models::UndertaleScript']]],
+  ['isdebuggerdisabled_14',['IsDebuggerDisabled',['../class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#a7d07ad56217286480caf42b19a23a4b0',1,'UndertaleModLib::Models::UndertaleGeneralInfo']]],
+  ['isqoi_15',['IsQOI',['../class_undertale_mod_lib_1_1_models_1_1_undertale_spine_texture_entry.html#a6787a585f392d90861a09f4fe051e834',1,'UndertaleModLib::Models::UndertaleSpineTextureEntry']]],
+  ['issensor_16',['IsSensor',['../class_undertale_mod_lib_1_1_models_1_1_undertale_game_object.html#a3419a5a518f74fa1cbc12d63335f91ac',1,'UndertaleModLib::Models::UndertaleGameObject']]],
+  ['issmooth_17',['IsSmooth',['../class_undertale_mod_lib_1_1_models_1_1_undertale_path.html#ab97dca09f80b9dbcc968940209442610',1,'UndertaleModLib::Models::UndertalePath']]],
+  ['italic_18',['Italic',['../class_undertale_mod_lib_1_1_models_1_1_undertale_font.html#a1afd275844ba4af9e11eb7f5c9571a14',1,'UndertaleModLib::Models::UndertaleFont']]]
+];
